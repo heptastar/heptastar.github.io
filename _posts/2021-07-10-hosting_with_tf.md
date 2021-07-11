@@ -7,7 +7,7 @@ As a researcher or data scientist, one of the most common case could be training
 
 ## 1. About Docker
 I have a Windows 10 machine, and it's the Home version. It's not really convenient to use Docker as I found out after spending sometime. So I installed Ubuntu as a second operating system on my disk, and use Docker there. If you have to use Windows, the latest Docker would support Windows Pro. There is an older version you can run on Windows 10 Home, but I could not get it work with TensorFlow Serving properly. 
-To install Docker, check out [Docker](https://www.docker.com/products/docker-desktop) website. The following commands are all executed in Ubuntu 20.04 LTS. It should work on Macs as well. 
+To install Docker, check out [Docker](https://www.docker.com/products/docker-desktop) website. The following commands are all executed in Ubuntu 20.04 LTS. It should work on Mac as well. 
 
 ## 2. Install TensorFlow Serving with Docker
 It's one command. 
